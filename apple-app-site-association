@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "G943WFPBRF.com.guagua.sing",
+            "paths": ["/hongyin"]
+            },
+            {
+            "appID": "G943WFPBRF.com.guagua.sing",
+            "paths": ["*"]
+            }
+    }
+}
