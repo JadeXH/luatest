@@ -2,4 +2,4 @@
 luatest
 testImageUrl:
 
-<img src="https://github.com/FuckUmei/DYZB/blob/master/%E6%88%AA%E5%B1%8F.png" height="480" width="320">&nbsp;&nbsp;
+<img src="https://github.com/JadeXH/luatest/blob/master/1111.jpg" height="400" width="400">&nbsp;&nbsp;
